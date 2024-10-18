@@ -1,13 +1,8 @@
-# Your Name Here
+# Forrest Siminoe
 # UWYO COSC 1010
-# Submission Date
+# 10/20/2024
 # Lab 06
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
-
+# Lab Section: 13
 
 random_string = """
 jppamiqxegokaizvkyawwurhewtcxohryzptznyuedhhmawpic
@@ -105,7 +100,7 @@ least_occurred = min(alphabet_count, key=alphabet_count.get)
 print(f"The letter that occurred the most is {most_occurred}")
 print("*"*75)
 # Output which letter occurred the least 
-print(f"The letter that occurred the most is {least_occurred}")
+print(f"The letter that occurred the least is {least_occurred}")
 print("*"*75)
 
 # Output what the percentage of the string each character is, again in alphabetical
