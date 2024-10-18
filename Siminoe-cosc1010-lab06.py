@@ -71,8 +71,6 @@ for random in random_string:
         alphabet_count[random] += 1
     else:
         alphabet_count[random] = 1
-
-print(alphabet_count)
 #Tips and trick:
 # You can iterate through strings like you would a list
 # All characters are lowercase 
@@ -80,11 +78,8 @@ print(alphabet_count)
 # That is to say, this is a great use of dictionaries
     # You will  need to add the letter to the dictionary on first occurrence 
     # Then increment its corresponding count 
-
-
 #Load all the elements into a dictionary
 #Will need to first declare a dictionary 
-
 # Output: each letter and its corresponding occurrence in alphabetical order
 
 print("*"*75)
